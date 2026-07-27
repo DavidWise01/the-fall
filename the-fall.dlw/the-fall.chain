@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1508
 slug  : the-fall
-seal  : e91e3ddc9b6af19f010ae17e33805ed1a893401bf5c7d4ad47dcfc745b8339c7
-prev  : 42fbee0df2dbd7ce5fef581dc7d61357e8d1b11db33a426cf50b767bf9020bb1
-link  : 117960589ab3434a71703add09b59af6906b1cf738b4485fa23e9f29718a6458
-head  : 117960589ab3434a71703add09b59af6906b1cf738b4485fa23e9f29718a6458
+seal  : c84e357636f2f40205a66e77e9e1395e933c5bdae69d4e305719491208cb97b3
+prev  : 19ecb9a0eb582087cbca8ab8653b8c250b0fafac65603148a40b222e01e57c71
+link  : 522f076eaadfb25ff04ee88e362ed9f17366b04f6ba1b48e537cdd27c55c8ad1
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
